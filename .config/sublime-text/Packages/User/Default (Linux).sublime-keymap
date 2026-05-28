@@ -1,0 +1,7 @@
+[
+	// Toggle the Sidebar layout visibility
+  { "keys": ["ctrl+shift+c"], "command": "toggle_side_bar" },
+
+  // Open a completely folder tree or project
+  { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+]

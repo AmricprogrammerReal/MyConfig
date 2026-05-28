@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE news
+SYSTEM "../assets/dtd/news.dtd">
+<news version="1" mtime="1779926407" frequency="0">
+    <include file="https://online.supertuxkart.net/dl/xml/online_assets.xml" mtime="1779922461"/>
+    <message id="1256" date="2026-05-23 15:13:44" author="" content="Newest add-on track: Shipayi park"/>
+    <message id="1252" date="2026-05-13 21:54:40" author="" content="Newest add-on kart: Negative Konqi"/>
+    <message id="1246" date="2026-04-20 21:32:44" author="" content="Latest post on https://blog.supertuxkart.net: The History of SuperTuxKart"/>
+    <list id="1245" date="2026-04-20 21:32:43" author="Alayan" content="The History of SuperTuxKart" link="https://blog.supertuxkart.net/2026/04/the-history-of-supertuxkart.html"/>
+    <list id="1224" date="2026-03-19 17:56:20" author="BcfWorld" content="STK Evolution: Freytra Peaks making of" link="https://blog.supertuxkart.net/2026/03/freytra-peaks-making-of.html"/>
+    <list id="1207" date="2026-01-21 20:45:19" author="Alayan" content="My Return to SuperTuxKart" link="https://blog.supertuxkart.net/2026/01/my-return-to-supertuxkart.html"/>
+    <list id="1195" date="2025-12-03 22:41:25" author="Alayan" content="STK Evolution: Karting without a hitch" link="https://blog.supertuxkart.net/2025/12/karting-without-hitch.html"/>
+    <list id="1189" date="2025-11-22 14:02:09" author="Alayan" content="SuperTuxKart 1.5 is now available on iOS" link="https://blog.supertuxkart.net/2025/11/supertuxkart-15-is-now-available-on-ios.html"/>
+    <list id="1182" date="2025-11-10 16:27:57" author="Alayan" content="STK 1.5 Gift Package Trailer [YouTube]" link="https://www.youtube.com/watch?v=tzTJgzzymBs"/>
+    <list id="1164" date="2025-10-20 18:09:19" author="Alayan" content="SuperTuxKart 1.5 release" link="https://blog.supertuxkart.net/2025/10/supertuxkart-15-release.html"/>
+    <list id="1158" date="2025-09-23 21:23:58" author="Alayan" content="SuperTuxKart Evolution Roadmap" link="https://blog.supertuxkart.net/2025/09/supertuxkart-evolution-roadmap.html"/>
+    <list id="1157" date="2025-09-23 21:23:48" author="Alayan" content="1.5-rc2 released, new Forum, and more !" link="https://blog.supertuxkart.net/2025/09/15-rc2-released-new-forum-and-more.html"/>
+    <list id="1156" date="2025-09-23 21:23:39" author="Alayan" content="Announcing SuperTuxKart Evolution" link="https://blog.supertuxkart.net/2025/08/announcing-supertuxkart-evolution.html"/>
+    <message id="1062" date="2025-04-28 23:11:53" author="" content="Newest add-on arena: Battery Jumpscare FFA"/>
+</news>

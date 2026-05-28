@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/amric/Downloads/gemini-code-1779895326665.sh" added="2026-05-27T15:22:07.252984Z" modified="2026-05-27T15:22:07.252994Z" visited="2026-05-27T15:22:07.252985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-27T15:22:07.252988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/User/Preferences.sublime-settings" added="2026-05-28T06:10:23.387019Z" modified="2026-05-28T06:25:40.580344Z" visited="2026-05-28T06:10:23.387020Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:25:40.580341Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/Default/Preferences.sublime-settings" added="2026-05-28T06:10:23.387071Z" modified="2026-05-28T06:25:40.580381Z" visited="2026-05-28T06:10:23.387072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:25:40.580379Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/User/Default%20Dark.sublime-theme" added="2026-05-28T06:11:13.327068Z" modified="2026-05-28T06:12:27.954596Z" visited="2026-05-28T06:11:13.327069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:12:27.954593Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/Theme%20-%20Default/Default%20Dark.sublime-theme" added="2026-05-28T06:11:13.327103Z" modified="2026-05-28T06:12:27.954627Z" visited="2026-05-28T06:11:13.327103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:12:27.954626Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/User/Adaptive.sublime-theme" added="2026-05-28T06:13:26.698791Z" modified="2026-05-28T06:22:26.037767Z" visited="2026-05-28T06:13:26.698792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:22:26.037762Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/Theme%20-%20Default/Adaptive.sublime-theme" added="2026-05-28T06:13:26.698824Z" modified="2026-05-28T06:13:26.698827Z" visited="2026-05-28T06:13:26.698825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:13:26.698825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/Adaptive.sublime-theme" added="2026-05-28T06:16:41.579204Z" modified="2026-05-28T06:22:39.094723Z" visited="2026-05-28T06:16:41.579205Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:22:39.094719Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T06:16:49.399784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/User/Default%20(Linux).sublime-keymap" added="2026-05-28T06:26:16.718357Z" modified="2026-05-28T06:26:16.718362Z" visited="2026-05-28T06:26:16.718358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:26:16.718359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/Default/Default%20(Linux).sublime-keymap" added="2026-05-28T06:26:16.718393Z" modified="2026-05-28T06:26:16.718396Z" visited="2026-05-28T06:26:16.718394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:26:16.718394Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/code/Eye" added="2026-05-28T06:26:36.467822Z" modified="2026-05-28T06:26:36.467829Z" visited="2026-05-28T06:26:36.467823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:26:36.467825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/code/Eye/main.lua" added="2026-05-28T06:28:15.076061Z" modified="2026-05-28T06:28:15.076068Z" visited="2026-05-28T06:28:15.076062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:28:15.076064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/.config/sublime-text/Packages/LuaFormatter/Default%20(Linux).sublime-keymap" added="2026-05-28T06:28:58.638312Z" modified="2026-05-28T06:28:58.638320Z" visited="2026-05-28T06:28:58.638313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl4 %u&apos;" modified="2026-05-28T06:28:58.638316Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/wallhaven-96kmzd_1024x768.png" added="2026-05-28T07:00:44.100402Z" modified="2026-05-28T07:00:44.100409Z" visited="2026-05-28T07:00:44.100403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T07:00:44.100405Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/wallhaven-yjdgzg_1024x768.png" added="2026-05-28T07:08:01.490302Z" modified="2026-05-28T07:08:01.490310Z" visited="2026-05-28T07:08:01.490303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T07:08:01.490305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/dotfiles.zip" added="2026-05-28T07:29:05.917941Z" modified="2026-05-28T07:29:05.917950Z" visited="2026-05-28T07:29:05.917942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T07:29:05.917945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/aseprite_linux.zip" added="2026-05-28T07:52:52.327678Z" modified="2026-05-28T07:52:52.327686Z" visited="2026-05-28T07:52:52.327679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T07:52:52.327682Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/Iosevka_Charon_Mono.zip" added="2026-05-28T08:13:04.008483Z" modified="2026-05-28T08:13:04.008493Z" visited="2026-05-28T08:13:04.008484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T08:13:04.008488Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/wallhaven-451kw8_1024x768.png" added="2026-05-28T13:27:19.515025Z" modified="2026-05-28T13:27:19.515032Z" visited="2026-05-28T13:27:19.515026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T13:27:19.515028Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/Downloads/peakpx.jpg" added="2026-05-28T14:08:47.248900Z" modified="2026-05-28T14:29:09.479427Z" visited="2026-05-28T14:08:47.248901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2026-05-28T14:29:09.479424Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/wall/main.png" added="2026-05-28T16:07:48.476711Z" modified="2026-05-28T16:10:25.691167Z" visited="2026-05-28T16:07:48.476712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2026-05-28T16:10:25.691157Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/amric/wall/test.png" added="2026-05-28T16:09:26.690676Z" modified="2026-05-28T16:09:28.469664Z" visited="2026-05-28T16:09:26.690677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.inkscape.Inkscape" exec="&apos;org.inkscape.Inkscape %u&apos;" modified="2026-05-28T16:09:28.469661Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

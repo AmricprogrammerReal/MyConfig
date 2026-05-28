@@ -1,0 +1,24 @@
+{
+    "variables":
+    {
+        // you only need to change this font_face value if
+        // you want the font.face values below to use the same font.
+        "font_face": "Iosevka Term Regular",
+        "font_size_sm": 12.5,
+        "font_size": 13,
+        "font_size_lg": 14,
+        "font_size_title": 26,
+    },
+    "rules":[
+        {
+            "class": "text_line_control",
+            "parents": [{"class": "overlay_control"}],
+            "font.face": "var(font_face)",
+        },
+        {
+            "class": "text_line_control",
+            "parents": [{"class": "switch_project_window"}],
+            "font.face": "var(font_face)",
+        },
+    ]
+}

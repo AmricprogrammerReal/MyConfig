@@ -1,0 +1,9 @@
+! nsxiv Arc Dark Theme & Font Configuration
+Nsxiv.window.background: #2f343f
+Nsxiv.window.foreground: #f3f4f5
+Nsxiv.bar.background:    #242832
+Nsxiv.bar.foreground:    #8791a1
+Nsxiv.mark.foreground:   #5294e2
+
+! Typography configuration
+Nsxiv.bar.font: Iosevka Regular:size=10

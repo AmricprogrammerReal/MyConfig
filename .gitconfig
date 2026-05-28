@@ -1,0 +1,12 @@
+[user]
+	name = Amric
+	email = amricchristopherprogrammer@gmail.com
+[core]
+	editor = vim
+	autocrlf = input
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
+[alias]
+	st = status
